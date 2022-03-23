@@ -1,4 +1,9 @@
-## Hello There, I'm Alef Iury 👋
+## About Me 👨🏻‍💻
+
+- 💡 I enjoy learning new things and explore a variety of disciplines, attempting to tie it all together.
+- 🎓 Computer science undergraduate student at [Federal University of Goiás (UFG)](https://www.ufg.br/).
+- 🔎 Speech recognition researcher at [Centro de Excelência em Inteligência Artificial (CEIA)](http://centrodeia.org/).
+- 💼 Intern at [SAP Brasil](https://www.sap.com/brazil/index.html)
 
 
 ## Languages
@@ -71,9 +76,4 @@
 
 <hr/>
 
-## Github Stats
-<div>
-  <a href="https://beacons.ai/alisonrib17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alefiury&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefiury&layout=compact&langs_count=16&theme=calm"/>
-</div>
+![alefiury github stats](https://github-readme-stats.vercel.app/api?username=alefiury&count_private=true&show_icons=true&theme=calm)
