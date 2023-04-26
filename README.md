@@ -4,8 +4,7 @@
 - 🇧🇷 🇺🇸 🇫🇷 🇯🇵 Passionate about learning new languages.
 - 🎓 Computer science undergraduate student at [Federal University of Goiás (UFG)](https://www.ufg.br/).
 - 🔎 Speech recognition researcher at [Centro de Excelência em Inteligência Artificial (CEIA)](http://centrodeia.org/).
-
-
+- 🔎 NLP researcher at [Hub de Inteligência Artificial e Arquiteturas Cognitivas (HIAAC)](https://hiaac.unicamp.br/)
 
 ## Languages
 
