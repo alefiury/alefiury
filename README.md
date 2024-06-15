@@ -2,7 +2,7 @@
 
 - 💡 I enjoy learning new things and explore a variety of disciplines, attempting to tie it all together.
 - 🇧🇷 🇺🇸 🇫🇷 🇯🇵 Passionate about learning new languages.
-- 🎓 Computer science undergraduate student at [Federal University of Goiás (UFG)](https://www.ufg.br/).
+- 🎓 Computer science master's student at [Federal University of Goiás (UFG)](https://www.ufg.br/).
 - 🔎 Speech recognition researcher at [Centro de Excelência em Inteligência Artificial (CEIA)](https://ceia.ufg.br/).
 - 🔎 NLP researcher at [Hub de Inteligência Artificial e Arquiteturas Cognitivas (HIAAC)](https://hiaac.unicamp.br/)
 
