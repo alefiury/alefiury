@@ -1,79 +1,42 @@
+# Hi, I'm Alef 👋
+
 ## About Me 👨🏻‍💻
 
-- 💡 I enjoy learning new things and explore a variety of disciplines, attempting to tie it all together.
-- 🇧🇷 🇺🇸 🇫🇷 🇯🇵 Passionate about learning new languages.
-- 🎓 Computer science master's student at [Federal University of Goiás (UFG)](https://www.ufg.br/).
-- 🔎 Speech recognition researcher at [Centro de Excelência em Inteligência Artificial (CEIA)](https://ceia.ufg.br/).
-- 🔎 NLP researcher at [Hub de Inteligência Artificial e Arquiteturas Cognitivas (HIAAC)](https://hiaac.unicamp.br/)
+* 💡 I enjoy learning new things and exploring different disciplines, with the goal of connecting ideas across them.
+* 🇧🇷 🇺🇸 🇫🇷 🇯🇵 Passionate about learning languages and exploring different cultures.
+* 🎓 Master's student in Computer Science at [Federal University of Goiás (UFG)](https://www.ufg.br/).
+* 🔎 Speech Recognition Researcher at [Centro de Excelência em Inteligência Artificial (CEIA)](https://ceia.ufg.br/).
+* 🔎 NLP Researcher at [Hub de Inteligência Artificial e Arquiteturas Cognitivas (HIAAC)](https://hiaac.unicamp.br/).
 
 ## Languages
 
-<a href="">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
-</a>
-<a href="">
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square\&logo=lua\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
 
-## Frameworks
+## Machine Learning & Data
 
-<a href="">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-</a>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 
-<a href="">
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-</a>
+## Web & Tools
 
-<a href="">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square\&logo=jquery\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square\&logo=latex\&logoColor=white)
 
-<hr/>
+## GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alefiury&theme=github_dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alefiury\&theme=github_dark)
