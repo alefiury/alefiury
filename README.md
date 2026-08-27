@@ -76,4 +76,4 @@
 
 <hr/>
 
-![alefiury github stats](https://github-readme-stats.vercel.app/api?username=alefiury&count_private=true&show_icons=true&theme=calm)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alefiury&theme=github_dark)
